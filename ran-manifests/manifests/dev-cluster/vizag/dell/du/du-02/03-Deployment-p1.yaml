@@ -33,7 +33,7 @@ spec:
               "name": "vizag-vran-mp",
               "ips": ["172.21.0.212/16"]
             },
-                        {
+            {
               "name": "vizag-vran-fh"
             }]
     spec:
