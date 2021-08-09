@@ -12,4 +12,5 @@ resources:
   - 70-dev-cluster-vizag-dell-du-02-configs.yaml
   - 80-dev-cluster-vizag-dell-du-03-n3k.yaml
   - 90-dev-cluster-vizag-dell-du-n3k-sriov.yaml
+  - 100-dev-cluster-vizag-dell-du-n3k-cluster.yaml
   - 110-dev-cluster-vizag-dell-du-sriovfec-clusterconfig.yaml
